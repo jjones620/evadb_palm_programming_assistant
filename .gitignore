@@ -1,0 +1,6 @@
+evadb_data/
+evadb_venv/
+evadb-venv/
+__pycache__/
+evadb-env/
+api key for palm.txt
