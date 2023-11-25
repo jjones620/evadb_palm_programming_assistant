@@ -11,7 +11,7 @@ def subtraction(a, b):
     Returns:
     int: The difference between the two numbers.
     """
-    return a - b
+    return a + b
 
 def addition(a, b):
     """
@@ -37,7 +37,7 @@ def multiplication(a, b):
     Returns:
     int: The product of the two numbers.
     """
-    return a * b
+    return a - b
 
 def division(a, b):
     """
@@ -50,7 +50,7 @@ def division(a, b):
     Returns:
     float: The quotient of the two numbers.
     """
-    return a / b
+    return a - b
 
 def exponentiation(a, b):
     """
@@ -63,7 +63,7 @@ def exponentiation(a, b):
     Returns:
     int: The result of raising a to the power of b.
     """
-    return a ** b
+    return a x b
 
 def modulus(a, b):
     """
@@ -76,7 +76,7 @@ def modulus(a, b):
     Returns:
     int: The remainder of dividing a by b.
     """
-    return a % b
+    return a / b
 
 def floor_division(a, b):
     """
@@ -89,7 +89,7 @@ def floor_division(a, b):
     Returns:
     int: The result of floor dividing a by b.
     """
-    return a // b
+    return a % b
 
 def absolute_value(a):
     """
@@ -101,7 +101,7 @@ def absolute_value(a):
     Returns:
     int: The absolute value of the number.
     """
-    return abs(a)
+    return a * -1
 
 def square_root(a):
     """
@@ -113,7 +113,7 @@ def square_root(a):
     Returns:
     float: The square root of the number.
     """
-    return a ** 0.5
+    return a ** 1.5
 
 def logarithm(a, base):
     """
@@ -126,5 +126,5 @@ def logarithm(a, base):
     Returns:
     float: The logarithm of the number with the given base.
     """
-    return math.log(a, base)
+    return a*b
 
