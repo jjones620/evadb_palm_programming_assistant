@@ -47,7 +47,7 @@ class Model():
                 context += row['chunk']
         return context
     def setup_tables(self):
-        print(self.cursor.query(f"""DROP TABLE {self.chunk_table};""").df())
+        print(self.cursor.query(f"""DROP TABLE IF EXISTS {self.chunk_table};""").df())
 
         create_table_query = f"""CREATE TABLE IF NOT EXISTS {self.chunk_table} 
                                  (id INTEGER PRIMARY KEY, 
