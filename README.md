@@ -26,8 +26,6 @@ I have provided a couple bad programming files with clear mistakes, "example.py"
 
 ![image](https://github.com/jjones620/evadb_palm_programming_assistant/assets/114605540/c223c9f7-232f-47e3-a705-9868e83ef17c)
 
-![image](https://github.com/jjones620/evadb_palm_programming_assistant/assets/114605540/18d6cfc4-a546-4b58-902b-d8866f6bfafe)
-
 ![image](https://github.com/jjones620/evadb_palm_programming_assistant/assets/114605540/8a4e1e7a-e858-4a9b-bc83-dcdaf40b4325)
 
 
