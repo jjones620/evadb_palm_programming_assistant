@@ -1,4 +1,4 @@
-# CS4420 Programming Assignment 2
+# EvaDB/Palm Programming assistant: CS4420 Programming Assignment 2
 
 ## Background
 In my first project, I created a basic command line programming assistant using a Huggingface model that was capable of letting users ask questions, but it failed severely for context understanding. This was due to bad embeddings, lack of semantic understanding, and an inferior model.
